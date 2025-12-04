@@ -1,4 +1,4 @@
 # Aish-Sample
 This is my first Git Repository.
 <br>
-Author: Aish 
+Author: Aish Maskey
